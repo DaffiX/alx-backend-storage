@@ -1,0 +1,2 @@
+//List all docx in the school collection
+db.school.find().forEach(printjson);
